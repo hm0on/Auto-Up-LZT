@@ -1,0 +1,3 @@
+LOLZTEAM==2.2.1
+python-dotenv==1.2.1
+loguru==0.7.3

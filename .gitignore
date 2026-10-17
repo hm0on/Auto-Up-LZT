@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+logs/
+state.sqlite3*
+autoup.lock
